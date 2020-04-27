@@ -1,0 +1,140 @@
+
+@media only screen and (max-width: 480px) {
+
+body {
+    background: url("images/Titan_low_res.bmp") no-repeat center cover;
+    font-family: 'Laila', serif;
+    text-align: center;
+}
+
+/* div {
+    background: rgb(255, 255, 255);
+    width: 280px;
+    margin: 50px auto;
+} */
+
+h1 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 14px;
+    text-align: left;
+}
+
+h4 {
+    font-family: 'Quicksand', sans-serif;
+    margin: auto;
+    text-align: center;
+    color: #32333C;
+    text-shadow: 1px 1px blue;
+}
+
+li {
+    text-align: left;
+}
+
+p {
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+    color: #32333C;
+    text-align: left;
+}
+
+a:hover {
+    color: blue;
+}
+
+ul {
+    text-align: left;
+}
+
+
+/* button {
+    font-family: sans-serif;
+    font-size: 17px;
+    text-decoration: #32333C;
+    font-weight: bold;
+    text-shadow: 0.5px 0.4px blue;
+} */
+
+.width {
+    width: 760px;
+}
+
+.main {
+    width: 100%;
+}
+
+/* .float {
+float: left;
+margin: 20px;
+} */
+
+.color1 {
+    color: red;
+}
+
+.color2 {
+    color: green;
+}
+
+.color3 {
+    color: purple;
+}
+
+.toggler {
+    display: none;
+}
+
+/* .links img:hover {
+    box-shadow: 2px 2px grey;
+} */
+
+/* Style the tab */
+/*.tab {
+    padding: 12px;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0.8);
+  }*/
+  
+  /* Style the buttons that are used to open the tab content */
+  /* .tab button {
+    background-color: rgba(255, 255, 255, 0.8);
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 20px;
+    transition: 0.3s;
+  } */
+  
+  /* Change background color of buttons on hover */
+  /* .tab button:hover {
+    background-color: skyblue;
+  } */
+  
+  /* Create an active/current tablink class */
+  /* .tab button.active {
+    background-color: rgba(255, 255, 255, 0.8);
+  } */
+  
+  /* Style the tab content*/
+  /* .tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    border-top: none;
+  } */
+}
